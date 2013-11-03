@@ -6,6 +6,10 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.swp
+.npm-debug.log
+.sass-cache
+.DS_Store
 
 pids
 logs
